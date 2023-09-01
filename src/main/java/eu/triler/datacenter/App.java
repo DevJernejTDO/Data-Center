@@ -27,7 +27,6 @@ public class App {
         mainPath = (new File("").getAbsolutePath());
 
         getApp().getDataManager().CreateLocalFiles();
-        ;
     }
 
     public static App getApp() {

@@ -15,8 +15,8 @@ public class DataManager {
         JsonManager json = myApp.getJsonManager();
 
         // Gett all defauld files
-        String defauldConfig = reader.getTextFromFile("config.yml");
-
+        String defauldConfig = reader.getTextFromFile("config.json");
+        System.out.println(defauldConfig);
         // Set string to JSON
         JsonObject defaultConfigObject = (JsonObject) JsonParser.parseString(defauldConfig);
 

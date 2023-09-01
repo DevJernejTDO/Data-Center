@@ -1,4 +1,5 @@
 myTools\FileReader.class
+eu\triler\datacenter\Data\DataManager.class
 eu\triler\datacenter\Data\ServerData.class
 myTools\FolderManager.class
 myTools\JsonManager.class

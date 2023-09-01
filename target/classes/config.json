@@ -1,0 +1,14 @@
+{
+    "MySQL": {
+        "Host": "0.0.0.0",
+        "Port": 3306,
+        "DataBase": "TrilerEuDataCenter",
+        "Username": "root",
+        "Password": "kgsfdiut4046z4r6g2"
+    },
+    "Redis": {
+        "Host": "0.0.0.0",
+        "Port": 6379,
+        "Password": "5fdg6gh56h6"
+    }
+}
