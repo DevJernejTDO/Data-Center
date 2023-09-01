@@ -1,0 +1,8 @@
+myTools\FileReader.class
+eu\triler\datacenter\Data\ServerData.class
+myTools\FolderManager.class
+myTools\JsonManager.class
+eu\triler\datacenter\App.class
+eu\triler\datacenter\Data\ServerState.class
+myTools\Redis.class
+myTools\MySQL.class
