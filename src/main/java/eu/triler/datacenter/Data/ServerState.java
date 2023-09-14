@@ -1,5 +1,5 @@
 package eu.triler.datacenter.Data;
 
 public enum ServerState {
-    Online, Offline
+    Online, Offline, IDLE
 }

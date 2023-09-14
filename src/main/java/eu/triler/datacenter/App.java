@@ -19,6 +19,10 @@ public class App {
     private static JsonManager jsonManager = null;
     private static String mainPath = null;
 
+    /*
+    * Made by JernejTDO for CubedSi Data-Center.
+    */
+
     public static void main(String[] args) {
         thisApp = new App();
         dataManager = new DataManager();
